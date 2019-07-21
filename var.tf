@@ -1,20 +1,20 @@
 variable "aws_vpc" {
     description = "VPC"
-    default = "vpc-c09fafab"
+    default = "vpc-e197728a"
 }
 
 variable "aws_subnet" {
     description = "aws subnet"
-    default = "subnet-acbfe9d1"
+    default = "subnet-ea17b4a6"
 }
 
 variable "aws_subnet2" {
     description = "aws subnet2"
-    default = "subnet-1de7c250"
+    default = "subnet-ea17b4a6"
 }
 
 variable "aws_key" {
     description = "aws key"
-    default = "DevOps-key"
+    default = "Ohio"
 }
 
