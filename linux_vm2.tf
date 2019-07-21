@@ -1,6 +1,6 @@
 resource "aws_instance" "linux_vm2" {
-    ami                         = "ami-0cc293023f983ed53"
-    availability_zone           = "eu-central-1c"
+    ami                         = "ami-0d8f6eb4f641ef691"
+    availability_zone           = "us-east-2b"
     ebs_optimized               = false
     instance_type               = "t2.micro"
     monitoring                  = false
